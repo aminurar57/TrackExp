@@ -1,6 +1,8 @@
 # new_trackexpense
 
-A new Flutter project.
+Expenses tracking app.
+For apk file and video demo, please go to Google Drive folder below:
+https://drive.google.com/drive/folders/1PjUHU0KolSnlTjFMoR0c2oQqgoKQ-7T-
 
 ## Getting Started
 
